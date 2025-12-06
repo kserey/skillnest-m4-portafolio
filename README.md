@@ -59,5 +59,5 @@ class Producto {
 **Consumo de API** 
 Se utilizó async/await para gestionar la latencia de red y un bloque try/catch para manejar posibles errores de conexión, mostrando una alerta visual al usuario si la API falla.
 
-##✒️ Autor
+## ✒️ Autor
 Irina Serey - Desarrollador Full Stack en formación
