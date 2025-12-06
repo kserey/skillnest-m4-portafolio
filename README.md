@@ -39,7 +39,7 @@ Este proyecto funciona directamente en el navegador sin necesidad de compiladore
 
 * **Clonar el repositorio:**
 ``` bash
-git clone [https://github.com/TU_USUARIO/nombre-repo-ecommerce.git](https://github.com/TU_USUARIO/nombre-repo-ecommerce.git)
+git clone https://github.com/kserey/skillnest-m4-portafolio
 ```
 * **Ejecutar:**
   * Abre el archivo index.html en tu navegador.
